@@ -127,4 +127,7 @@ dmypy.json
 .pyre/
 
 # pycache
+
+.DS_Store
+
 __pycache__
